@@ -1,9 +1,4 @@
 # portfolio-website
-portfolio-website/
-├── index.html
-├── style.css
-├── script.js
-└── images/
 <!DOCTYPE html>
 <html lang="en">
 <head>
