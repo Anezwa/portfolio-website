@@ -1,0 +1,2 @@
+touch index.html style.css script.js       # Create the HTML, CSS, and JS files
+mkdir images                               # Create the "images" folder
